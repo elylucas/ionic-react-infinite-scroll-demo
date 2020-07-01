@@ -1,0 +1,7 @@
+{
+  "name": "react-infinitescroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
